@@ -1,4 +1,4 @@
-module github.com/emca-io/elmobd
+module github.com/emca-io/elmobd/v4
 
 go 1.13
 
